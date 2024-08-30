@@ -14,6 +14,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `Deploy Link`
+  https://adaptnxt-frontend-assignment.netlify.app
+
+### `Screenshot of project`
+
+![React-App](https://github.com/user-attachments/assets/3e06e557-6387-4b0f-9199-c8577f7cf3de)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
