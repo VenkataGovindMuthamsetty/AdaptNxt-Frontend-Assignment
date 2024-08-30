@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+To install the dependencies in the project.
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -14,12 +18,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `Deploy Link`
+### `Deploy Link:`
   https://adaptnxt-frontend-assignment.netlify.app
 
-### `Screenshot of project`
+### `Screenshot:`
 
-![React-App](https://github.com/user-attachments/assets/3e06e557-6387-4b0f-9199-c8577f7cf3de)
+![Screenshot (12)](https://github.com/user-attachments/assets/9254f89f-b0a4-4e99-90e8-a7e1ccbd4016)
 
 
 ### `npm test`
